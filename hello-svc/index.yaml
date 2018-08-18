@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hello-svc:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-18T19:28:25.17597851+08:00
+    description: A Helm chart for Kubernetes
+    digest: 292ea21d096468cf3e1a4edca1347e83764d1e3d53a58b751e85e883ce0c4211
+    name: hello-svc
+    urls:
+    - https://guomeiqtl.github.io/test/hello-svc-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-18T19:28:25.16979479+08:00
