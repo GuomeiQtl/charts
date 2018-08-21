@@ -3,7 +3,7 @@ entries:
   falcon-qa-agent:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-21T09:16:24.151527742Z
+    created: 2018-08-21T09:18:06.94626464Z
     description: A Helm chart for Kubernetes
     digest: c0d7b403ca1bf89c9327d02997354d17af1eed4ff33a9342c3e24f220a9de1a6
     name: falcon-qa-agent
@@ -13,7 +13,7 @@ entries:
   falcon-qa-grafana:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-21T09:16:24.151950493Z
+    created: 2018-08-21T09:18:06.946675252Z
     description: A Helm chart for Kubernetes
     digest: 2f5aefa770d00ae708b4a4d75721455f68b06b084f568f3c663a6196415a6eb0
     name: falcon-qa-grafana
@@ -23,7 +23,7 @@ entries:
   monocular:
   - apiVersion: v1
     appVersion: v0.7.3
-    created: 2018-08-21T09:16:24.154016665Z
+    created: 2018-08-21T09:18:06.948727377Z
     description: Monocular is a search and discovery front end for Helm Charts Repositories.
     digest: 2e7289ff46bd94fc35fc19c295d897964cc82f09131f1ee2098c5aa7432f4796
     home: https://github.com/helm/monocular
@@ -36,4 +36,4 @@ entries:
     urls:
     - monocular-0.6.4.tgz
     version: 0.6.4
-generated: 2018-08-21T09:16:24.150957104Z
+generated: 2018-08-21T09:18:06.945673065Z
